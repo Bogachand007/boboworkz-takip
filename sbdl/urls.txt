@@ -86,3 +86,5 @@ a32c https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20
 e32a https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261113_214007_24bfc897-cbac-4f8c-847b-6eb3b2f00cfd.png
 e32b https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261113_214008_c6adfb76-fab5-402f-aa78-831c1e8d5a73.png
 e32c https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261113_214009_e6a10b3a-97c6-4308-af2c-bff6d1f7ec2b.png
+g32a https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261113_214754_67657e53-ce59-4f18-ae39-949925e44fe3.png
+g32b https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261113_214754_04a9a759-5560-4916-ad30-06470e1cf1a2.png

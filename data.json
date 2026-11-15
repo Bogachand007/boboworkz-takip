@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-15T10:38:31.162689+00:00",
+ "publishedAt": "2026-11-15T11:37:36Z",
  "projects": [
   {
    "id": "talpa-film",
@@ -107,7 +107,7 @@
      "desc": "Akşam 20:40. Gece lambasının ışığında Ela uyuyor. Başucunda yarım resim: mavi gökyüzü, havada küçük bir uçak. Pist yok.",
      "dialog": "SES: Duvar saati, uzaktan şehir.",
      "status": "Boarded",
-     "frame": "assets/a62e802706accf3bbd1b0ea8aac0fb86.jpg",
+     "frame": "assets/76c1fa5e524b22be2ca05b26a0cf1a71.jpg",
      "frameLabel": "A · WS · 35mm",
      "method": "",
      "alts": [
@@ -116,7 +116,7 @@
        "label": "B · CU · uyuyan Ela"
       },
       {
-       "url": "assets/cc86e4a8cb3809e0fe2f97e0710269cc.jpg",
+       "url": "assets/5e79574556663de935246d6f67493e5e.jpg",
        "label": "C · INSERT · yarım resim"
       }
      ]
@@ -263,7 +263,7 @@
      "desc": "Ekip valizleriyle terminal koridorunda yürür. Eşleşen geçiş: aynı kompozisyon, akademi koridoru. 19 yaşındaki Deniz kadet sırasında: omzunda tek şerit, kolunun altında spiralli defter.",
      "dialog": "DENİZ (iç ses): Bazı meslekler, yıllar süren bir hazırlıkla başlar.",
      "status": "Boarded",
-     "frame": "assets/c042894f54b51c3558359b1af8530973.jpg",
+     "frame": "assets/cd8febbe86cfe08185d9691488a1f696.jpg",
      "frameLabel": "A · WS · 35mm",
      "method": "",
      "alts": [
@@ -289,16 +289,16 @@
      "desc": "Gece masası. Kitaplar, aerodinamik notları, lamba. Genç Deniz uyuklar, ayılır, devam eder.",
      "dialog": "SES: Sayfa çevirme. Jump cut.",
      "status": "Boarded",
-     "frame": "assets/3835a1d0fa4975e8b9363e8b31214100.jpg?v=2",
+     "frame": "assets/22c6029ccd4802e6c5d1613971b145b4.jpg?v=2",
      "frameLabel": "A · MS · 50mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/208e162dd1056b188bce7687216b730a.jpg?v=2",
+       "url": "assets/67e009833f23d6387fb18d5adbfebafb.jpg?v=2",
        "label": "B · CU · uykulu yüz"
       },
       {
-       "url": "assets/a195bb9c5cae8b028cf662c3b4669d9f.jpg?v=2",
+       "url": "assets/7ff5e56849359df6a6c91ad6719be2b8.jpg?v=2",
        "label": "C · INSERT · defter"
       }
      ]
@@ -315,12 +315,12 @@
      "desc": "Simülatör. Kırmızı uyarı ışığı. Genç Deniz hata yapmış, nefesi sıkışık.",
      "dialog": "EĞİTMEN: (arkadan, sakin) Tekrar.\nSES: İç ses yok: eğitmen repliği tek başına kalır, ardından nefes.",
      "status": "Boarded",
-     "frame": "assets/934daec95938f6e84931597988f36c73.jpg?v=2",
+     "frame": "assets/d4e3a5c7b76e43732a3150c5aef5e204.jpg?v=2",
      "frameLabel": "A · MCU · 50mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/b451bb8ba26ed54b76457ef4e18790a1.jpg?v=2",
+       "url": "assets/888b9e268d72d5418ff17ed154d348dc.jpg?v=2",
        "label": "B · OTS · eğitmen"
       },
       {
@@ -346,11 +346,11 @@
      "method": "",
      "alts": [
       {
-       "url": "assets/7101fac5fe5a6b758df1b1bd4810a8fd.jpg",
+       "url": "assets/213fe158f72ecd44e32d16098b000f25.jpg",
        "label": "B · WS · iniş"
       },
       {
-       "url": "assets/c050745273a0bf8be4b21c5969417037.jpg",
+       "url": "assets/c0ff9f03cf46dd526eeb786c7da45930.jpg",
        "label": "C · POV · kokpitten"
       }
      ]
@@ -367,12 +367,12 @@
      "desc": "Apronda arkadaşları kovayla başından su döker. Deniz kahkahalarla sırılsıklam. Damlalar havada.",
      "dialog": "DENİZ (iç ses): Bir süre sonra fark edersiniz ki öğrendikleriniz yalnızca uçağı değil, sizi de değiştirmiştir.\nSES: Kahkahalar, alkış; yavaş çekimde kısılır.",
      "status": "Boarded",
-     "frame": "assets/c0e12a81813a68a04e67143f143d3ab5.jpg?v=2",
+     "frame": "assets/f5fb254229a19d67ef8db9352647c322.jpg?v=2",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/5d8ebd083776040328ff09c523931c98.jpg?v=2",
+       "url": "assets/22d64c25f946c2285cfabc435da4a035.jpg?v=2",
        "label": "B · CU · kahkaha"
       },
       {
@@ -393,16 +393,16 @@
      "desc": "Eşleşen geçiş: havadaki su damlaları → gece, kokpit camında yağmur damlaları.",
      "dialog": "SARP: Flaps?\nDENİZ: Five.\nSARP: Cabin?\nDENİZ: Secured.\nSARP: Before takeoff checklist completed.",
      "status": "Boarded",
-     "frame": "assets/de7a91923928cc7724eb881e7c743d7f.jpg",
+     "frame": "assets/a3fcffa62514e6ae7c24b96641542b12.jpg",
      "frameLabel": "A · CU · 50mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/29ce79a315b764bf81e7e0088cc160bd.jpg",
+       "url": "assets/9409f4eb195409dbbff7f2a4a344dd01.jpg",
        "label": "B · OTS · checklist"
       },
       {
-       "url": "assets/e31fb1a4576029b3fb95dfc45c1ab3e1.jpg?v=2",
+       "url": "assets/f386a37ac784f28d3c9e944fa503e695.jpg?v=2",
        "label": "C · INSERT · silecek"
       }
      ]
@@ -419,7 +419,7 @@
      "desc": "Genç Deniz Cessna 172 eğitim uçağında, eli gaz topuzunda (itme-çekme). Eşleşen geçiş: bugünkü Deniz'in eli, aynı hareket. Uçak gece pistinden kalkar.",
      "dialog": "SARP: Thrust set… V1… Rotate.\nDENİZ (iç ses): Sonra anlarsınız… Eğitim hiç bitmez. Çünkü her yeni uçuş, aynı özeni yeniden ister.",
      "status": "Boarded",
-     "frame": "assets/3151d6b34c7d7c96470eedaf924f504c.jpg?v=2",
+     "frame": "assets/60be90cb3ff859fae8c2cdc1183479fd.jpg?v=2",
      "frameLabel": "A · INSERT · 50mm",
      "method": "",
      "alts": [
@@ -478,11 +478,11 @@
        "label": "B · INSERT · otopilot (MCP)"
       },
       {
-       "url": "assets/13ce159960afc9e2a11859499eb58c59.jpg",
+       "url": "assets/35ced0fcc992eba9ab4f47eb5db60970.jpg",
        "label": "C · INSERT · yakıt karşılaştırması"
       }
      ],
-     "frame": "assets/8acf31f6ecd6ae2641dba7cacef23592.jpg",
+     "frame": "assets/dfafc81fa4b33964404fc4d24c259845.jpg",
      "frameLabel": "A · MS · iki koltuk arası"
     },
     {
@@ -500,15 +500,15 @@
      "method": "",
      "alts": [
       {
-       "url": "assets/8dbffa8379cb89862b7ba8f2a0200e17.jpg",
+       "url": "assets/a58497fc031b581d97274757c564ce2d.jpg",
        "label": "B · INSERT · ACARS hava raporu"
       },
       {
-       "url": "assets/5d62b75f4499c027f4e9f38eb7ef93b1.jpg",
+       "url": "assets/0d602183593d9c79d63cdffb9e8f6ce6.jpg",
        "label": "C · OTS · Sarp okur"
       }
      ],
-     "frame": "assets/769c547eb52c4ead8c51edd50db04f3d.jpg",
+     "frame": "assets/0d8e5eb58a5ac08c16ca4bdccc538c06.jpg",
      "frameLabel": "A · MCU · Deniz"
     },
     {
@@ -526,7 +526,7 @@
      "method": "",
      "alts": [
       {
-       "url": "assets/6b628b56b8eef043303f11098682d32c.jpg",
+       "url": "assets/f42c561591d523b2aa8317a7d151927b.jpg",
        "label": "B · INSERT · CDU alternatif meydan"
       },
       {
@@ -534,7 +534,7 @@
        "label": "C · INSERT · hava radarı (ND)"
       }
      ],
-     "frame": "assets/f2b8751c5fc49550b5b32327ed3b9365.jpg",
+     "frame": "assets/962c7bb7026bf85c6e64dcfd4e5c9d5c.jpg",
      "frameLabel": "A · iki kişilik · teyit"
     },
     {
@@ -549,16 +549,16 @@
      "desc": "Hava radarı ekranı: rotanın üzerinde kırmızı-mor hücre. Sarp ekranı gösterir. Deniz bakar, kısa bir sessizlik.",
      "dialog": "SARP: Önümüzde oluşum var. Otuz mil.\nDENİZ: Yirmi mil boyunca sağa, 150 baş isteyelim.",
      "status": "Boarded",
-     "frame": "assets/9cdeca5ca524bb226357af35dfaf05f2.jpg",
+     "frame": "assets/d82dc8dcf3354f7e6fee8f55e8d35642.jpg",
      "frameLabel": "A · MCU · 50mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/ce18a33ed10335ca0c135c5ce398905d.jpg",
+       "url": "assets/fd16fa2ca140c22fb351c5254644ca84.jpg",
        "label": "B · INSERT · radar"
       },
       {
-       "url": "assets/2cf985972d8745a6df7af65dd485bc48.jpg",
+       "url": "assets/8e2595e99f9fafd8c8bf51a9dc36c4eb.jpg",
        "label": "C · MCU · Deniz düşünür"
       }
      ]
@@ -575,16 +575,16 @@
      "desc": "Sarp (sağ koltuk, pilot monitoring) telsiz tuşuna basar; Deniz (sol koltuk) dinler.",
      "dialog": "SARP (telsiz): Ankara Control, Pusula one-two-zero, request heading one-five-zero for twenty miles due weather.\nATC (filtreli): Pusula one-two-zero, heading one-five-zero approved, report clear of weather.",
      "status": "Boarded",
-     "frame": "assets/29ba0af5d06755ed628c68e33aaa85cc.jpg",
+     "frame": "assets/0a18a80a5d04fc7256adc7931953c63c.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/b807e1e9dd8031dbb7744e18cab68b1a.jpg",
+       "url": "assets/a5d11b2e19f11863e25b8f9f19644b6b.jpg",
        "label": "B · CU · Sarp"
       },
       {
-       "url": "assets/ca06429511414cc99c2cc3b25e0ebd61.jpg",
+       "url": "assets/6f00e456f25597a6646c76350e6926ff.jpg",
        "label": "C · MCU · Deniz dinler"
       }
      ]
@@ -601,16 +601,16 @@
      "desc": "Deniz'in eli heading düğmesini çevirir. Ekranda rota çizgisi kırmızıdan uzaklaşır.",
      "dialog": "SES: Düğmenin tık sesleri. Müzik bir nefes alır.",
      "status": "Boarded",
-     "frame": "assets/e735ef6c5e55ffb8ebc508a09b9080f3.jpg",
+     "frame": "assets/927ae257d38d531090a4284f33ef2e70.jpg",
      "frameLabel": "A · ECU · 100mm makro",
      "method": "",
      "alts": [
       {
-       "url": "assets/85c540aa64f7b2b8c60bcb73e618948a.jpg",
+       "url": "assets/46c743bbd3df2237d31a3791afd8cf1a.jpg",
        "label": "B · INSERT · rota ekranı"
       },
       {
-       "url": "assets/16ed0c96da0c4766d330e0e0649261d7.jpg?v=2",
+       "url": "assets/289ef3df5670d0e9bf3f0457ac45662d.jpg?v=2",
        "label": "C · MS · iki pilot"
       }
      ]
@@ -653,7 +653,7 @@
      "desc": "Deniz (sol koltuk) saate bakar, kemer ışığı düğmesine basar. Henüz hiçbir şey yok. Kabinde kemer ikonu yanar, Selin son tepsiyi toplar, yolcular kemerlerini takar.",
      "dialog": "SES: “Ding.” Kemer tıkırtıları.",
      "status": "Boarded",
-     "frame": "assets/1bac7f341877a8efb41d9b3465c09353.jpg",
+     "frame": "assets/a64d42ff69b84cafaf56bb7f010173b9.jpg",
      "frameLabel": "A · MCU · 50mm",
      "method": "",
      "alts": [
@@ -740,7 +740,7 @@
        "label": "B · POV · pencere"
       },
       {
-       "url": "assets/be9886f93265e7d0b2ad39b6a47535f3.jpg?v=2",
+       "url": "assets/b8f5e609b0b22f9ada4f472cc6743fc8.jpg?v=2",
        "label": "C · MS · kokpit"
       }
      ]
@@ -757,16 +757,16 @@
      "desc": "Otopilot montajı. Otopilot açık, ama kimse boş durmuyor. Sarp planlanan ve kalan yakıtı karşılaştırıp tablete girer. Deniz ekranları sırayla tarar: motorlar, hidrolik, basınç. Selin iki kahveyle kokpite girer, Deniz başıyla teşekkür eder.",
      "dialog": "SELİN: Kabin sakin kaptanım, kahvaltıya yarım saat var.",
      "status": "Boarded",
-     "frame": "assets/e47c1e73216da4f5fb155ab3b03eb6f2.jpg",
+     "frame": "assets/82804839ec8a6443a12ea4a5a4db6ccd.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/5e903863258d49e99125d49ce3594c40.jpg?v=2",
+       "url": "assets/0f71cbd2541e9c82c65a70c47fa72a6a.jpg?v=2",
        "label": "B · INSERT · tablet"
       },
       {
-       "url": "assets/86ae19371381a43811e767f797a51a0d.jpg?v=2",
+       "url": "assets/d9e644f17b502e166de355f7bc32ea79.jpg?v=2",
        "label": "C · MCU · Deniz teşekkür"
       }
      ]
@@ -783,16 +783,16 @@
      "desc": "Saatler geçiyor. Yazıcıdan saatlik hava raporu çıkar, Sarp okuyup Deniz'e uzatır. Frekans değişir, ekranda uçak ikonu Hazar'ı geçer. Deniz yaklaşma haritasını çoktan açmış, iniş brifingi yapılıyor.",
      "dialog": "ATC (farklı aksanlar, üst üste): …contact Tbilisi… / …Baku Control, radar contact…\nDENİZ: Pas geçersek pist başından sola, Bişkek yakıtı tamam.\nSARP: Anlaşıldı.",
      "status": "Boarded",
-     "frame": "assets/0eb3a97788c20e906b777a1d8a823be2.jpg?v=2",
+     "frame": "assets/37508211802b2f9227598cfd1fa4aec3.jpg?v=2",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/cf0ddd0f51aeb13bcf602a40ab79353a.jpg?v=2",
+       "url": "assets/f66dab4eb4e0e124c1cf434a73930a7b.jpg?v=2",
        "label": "B · INSERT · yazıcı"
       },
       {
-       "url": "assets/3194e325ee3f9b38b71f5bdfeca397e7.jpg?v=2",
+       "url": "assets/e883b848444cd9b85502284509e23b08.jpg?v=2",
        "label": "C · INSERT · yaklaşma haritası"
       }
      ]
@@ -809,16 +809,16 @@
      "desc": "Sakin seyir. Sarp uçak modundaki telefonunu bir an açar: arka planda iki çocuğu. Deniz fark eder.",
      "dialog": "SARP: Büyük olan pilot olacakmış.\nDENİZ: (gülümser) Benimkinin uçakları hep havada. İndirmeyi bana bırakıyor.",
      "status": "Boarded",
-     "frame": "assets/f20f90c0cb98417efe5a27912a96b7c1.jpg",
+     "frame": "assets/a926c059dc27a5593c77475c9b4a1c5b.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/1391da7c5a2d5b7c325d10e956c9effd.jpg",
+       "url": "assets/d99bf687fbee4a86ce811a168ac64b69.jpg",
        "label": "B · INSERT · telefon"
       },
       {
-       "url": "assets/fbc108cef044d36c470bfd60d08d8be8.jpg",
+       "url": "assets/3c8e8ff286309b0f06ddd5bfe63cdc83.jpg",
        "label": "C · MCU · Deniz gülümser"
       }
      ]
@@ -861,16 +861,16 @@
      "desc": "Deniz anons mikrofonunu alır.",
      "dialog": "DENİZ (anons): Sayın yolcularımız, kaptanınız konuşuyor. Rotamız üzerindeki hava koşulları nedeniyle küçük bir değişiklik yaptık.",
      "status": "Boarded",
-     "frame": "assets/d8ddc976ed79fba12d8401bba01c61fc.jpg?v=2",
+     "frame": "assets/7df8b70aa59eb7fe8398a3b095c3f1d6.jpg?v=2",
      "frameLabel": "A · MCU · 50mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/de6283d2d556f80cd2f9b9da154d93ec.jpg?v=2",
+       "url": "assets/29b74e154392f6af3ed8e1acfd0db640.jpg?v=2",
        "label": "B · INSERT · mikrofon"
       },
       {
-       "url": "assets/a98b9d906047db179507beb3c888d056.jpg?v=2",
+       "url": "assets/7097a25706f4fcef4beaccaed2502f51.jpg?v=2",
        "label": "C · arkadan · ön cam"
       }
      ]
@@ -948,7 +948,7 @@
        "label": "B · INSERT · ATC/pist"
       },
       {
-       "url": "assets/dcd82f24bba68e3eafba6ee40ac4e269.jpg",
+       "url": "assets/79272d801e30f2df174c18d870117764.jpg",
        "label": "C · EWS · dışarıdan"
       }
      ]
@@ -965,16 +965,16 @@
      "desc": "Deniz ve Sarp yan yana, tam odak. Karşılıklı tek bakış.",
      "dialog": "OTOMATİK SES: Minimums.\nDENİZ: Landing.\nOTOMATİK SES: Fifty… thirty… ten.",
      "status": "Boarded",
-     "frame": "assets/f6ef6d61e5de57a797ffe66318f9b41f.jpg",
+     "frame": "assets/a860e4a0ce0ca4c7baf5811d00e42ddc.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/bfe0f47f13a63c4cfae346f9f1a2d9f8.jpg?v=2",
+       "url": "assets/616ef8db4088108533241e1ffd1c24a3.jpg?v=2",
        "label": "B · CU · Deniz"
       },
       {
-       "url": "assets/dc09a3801c3550e0ffbb1c6dada6b155.jpg?v=2",
+       "url": "assets/96cd1c4fef062adc996940ea13840638.jpg?v=2",
        "label": "C · CU · Sarp"
       }
      ]
@@ -1000,7 +1000,7 @@
        "label": "B · eşleşme · ilk solo"
       },
       {
-       "url": "assets/78d50a1d1df3738e9309629f2338dd9c.jpg",
+       "url": "assets/85c302081f1d068c52fd1f3326f0dc40.jpg",
        "label": "C · WS · iniş"
       }
      ]
@@ -1060,16 +1060,16 @@
      "desc": "Boş kokpit, sabah ışığı. Son checklist maddesi işaretlenir. Deniz Sarp'a bakar. Telefonuna yazar: “Ben de indim ❤️”",
      "dialog": "SARP: İyi uçuştu kaptanım.\nDENİZ: Teşekkürler Sarp. Ellerine sağlık.\nSES: Mesaj: “Ben de indim ❤️”\nSELİN (anons, devam): Sevdiklerinizle güzel bir gün geçirmenizi dileriz.",
      "status": "Boarded",
-     "frame": "assets/0fbe67aa9e5c49393be7e929e2cea5f1.jpg?v=2",
+     "frame": "assets/2e1d481f87bc000bbe04ab118ecb82af.jpg?v=2",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/4fca7643b5febe54dd441b46b03e4a91.jpg?v=2",
+       "url": "assets/b73f3fc527cb777a7ca73a893b628d84.jpg?v=2",
        "label": "B · INSERT · checklist"
       },
       {
-       "url": "assets/fe57ebcd3c4fddc92d75f08354195bf9.jpg?v=2",
+       "url": "assets/1dbf7b27592c2c1db50f463e3c421230.jpg?v=2",
        "label": "C · INSERT · telefon"
       }
      ]
@@ -1138,12 +1138,12 @@
      "desc": "Ekip yürümeye devam eder; arkadan geniş takip planında Emre ve annesi kadrajın derinliğinde hâlâ sarılıdır.",
      "dialog": "SES: Müzik recap’e köprü olur. Diyalog yok.",
      "status": "Boarded",
-     "frame": "assets/1eae66d9b6a9ccca912c0ee5fb3ce4fb.jpg",
+     "frame": "assets/05087c7932b41fdfc9ea7a4a84b459f2.jpg",
      "frameLabel": "A · WS · arkadan takip",
      "method": "",
      "alts": [
       {
-       "url": "assets/73565ea8287c0e1d1d464b7d47ce4924.jpg",
+       "url": "assets/a5719504666e1cc63aa96ebb81a5334d.jpg",
        "label": "B · LOW · adımlar, derinlikte kavuşma"
       },
       {
@@ -1180,7 +1180,7 @@
      "desc": "Karar anından kabine: kitap okuyan çocuk, uyuyan yolcu / Uçak iner, yolcular kalkar / Sarılma tekrar gösterilmez; 32A–C bu cümleye anlamını vermiştir. Ekranda Deniz’in “Ben de indim ❤️” mesajı: Ela da annesine kavuşacak.",
      "dialog": "DENİZ (dış ses): Çünkü bazen verdiğimiz bir kararın ne kadar önemli olduğunu, kimse hiçbir şey yaşamadığında anlarız.\nDENİZ (dış ses): Ve günün sonunda… Birileri evine döner.\nDENİZ (dış ses): Bir çocuk annesine kavuşur.",
      "status": "Boarded",
-     "frame": "assets/85c540aa64f7b2b8c60bcb73e618948a.jpg",
+     "frame": "assets/46c743bbd3df2237d31a3791afd8cf1a.jpg",
      "method": "",
      "alts": []
     },
@@ -1221,7 +1221,7 @@
        "label": "B · CU · pist çizilir"
       },
       {
-       "url": "assets/bfe0f47f13a63c4cfae346f9f1a2d9f8.jpg?v=2",
+       "url": "assets/616ef8db4088108533241e1ffd1c24a3.jpg?v=2",
        "label": "C · CU · Deniz’in yüzü"
       }
      ]

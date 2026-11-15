@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-15T10:28:05.871597+00:00",
+ "publishedAt": "2026-11-15T10:30:04.686697+00:00",
  "projects": [
   {
    "id": "talpa-film",
@@ -159,7 +159,7 @@
      "desc": "Deniz kapıyı yavaşça kapatır. Eşleşen geçiş: ekip terminalinin kartlı giriş kapısı açılır, Deniz valiziyle içeri girer. Ekiplerin buluşma noktası.",
      "dialog": "SES: Kapı tıkırtısı → kart okuyucu bip sesi, terminal uğultusu.",
      "status": "Boarded",
-     "frame": "assets/c576be8a8aaa83d3569dffbb2efa2cbc.jpg?v=2",
+     "frame": "assets/72e1e01596f3f59da8e354846c4bd839.jpg",
      "frameLabel": "A · INSERT · 50mm",
      "method": "",
      "alts": [

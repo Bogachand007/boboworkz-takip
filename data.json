@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-15T08:31:17.014873+00:00",
+ "publishedAt": "2026-11-15T08:58:46.495785+00:00",
  "projects": [
   {
    "id": "talpa-film",
@@ -572,20 +572,20 @@
      "move": "hand-held · hafif shake",
      "dur": 8,
      "tc": "1:18",
-     "desc": "Deniz (sol koltuk) telsiz tuşuna basar; Sarp (sağ koltuk) dinler.",
-     "dialog": "DENİZ (telsiz): Ankara Control, Pusula one-two-zero, request heading one-five-zero for twenty miles due weather.\nATC (filtreli): Pusula one-two-zero, heading one-five-zero approved, report clear of weather.",
+     "desc": "Sarp (sağ koltuk, pilot monitoring) telsiz tuşuna basar; Deniz (sol koltuk) dinler.",
+     "dialog": "SARP (telsiz): Ankara Control, Pusula one-two-zero, request heading one-five-zero for twenty miles due weather.\nATC (filtreli): Pusula one-two-zero, heading one-five-zero approved, report clear of weather.",
      "status": "Boarded",
-     "frame": "assets/d64c17ff3ba6a6842556294681e93ce4.jpg",
+     "frame": "assets/29ba0af5d06755ed628c68e33aaa85cc.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/0c73a0bdd94031edba40562f9ef17f31.jpg",
-       "label": "B · CU · Deniz"
+       "url": "assets/b807e1e9dd8031dbb7744e18cab68b1a.jpg",
+       "label": "B · CU · Sarp"
       },
       {
-       "url": "assets/b7171dc7e1a2dc16a4244119da3b118f.jpg",
-       "label": "C · MCU · Sarp dinler"
+       "url": "assets/ca06429511414cc99c2cc3b25e0ebd61.jpg",
+       "label": "C · MCU · Deniz dinler"
       }
      ]
     },
@@ -679,7 +679,7 @@
      "desc": "Tek, hafif bir sarsıntı. Kahve bardağının yüzeyinde halkalar titrer, sonra durulur. Selin uyuyan yaşlı kadının battaniyesini düzeltir. Kadın uyanmaz.",
      "dialog": "SES: Gövdenin hafif gıcırtısı, sonra sessizlik. (Alternatif: SPLIT 1)",
      "status": "Boarded",
-     "frame": "assets/bd7fd4735a7876bbc42ba1e7209fd230.jpg",
+     "frame": "assets/c7b09791578f97d5f252d21f47dd6023.jpg",
      "frameLabel": "A · INSERT · 85mm",
      "method": "",
      "alts": [
@@ -688,7 +688,7 @@
        "label": "B · ECU · kahve"
       },
       {
-       "url": "assets/ef4acb779a5f30f7318e3922393cfa6d.jpg",
+       "url": "assets/9b3c344959571551623450c6044e46d8.jpg",
        "label": "C · MS · Selin ve yaşlı kadın"
       }
      ]

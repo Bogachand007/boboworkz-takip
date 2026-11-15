@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-15T08:13:45.873428+00:00",
+ "publishedAt": "2026-11-15T08:31:17.014873+00:00",
  "projects": [
   {
    "id": "talpa-film",
@@ -1439,7 +1439,7 @@
      "phase": "Pre",
      "start": "2026-11-12",
      "end": "2026-11-14",
-     "done": false
+     "done": true
     },
     {
      "id": "tm4",

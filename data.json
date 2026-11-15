@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-15T16:51:34Z",
+ "publishedAt": "2026-11-15T17:59:47Z",
  "projects": [
   {
    "id": "talpa-film",
@@ -508,7 +508,7 @@
        "label": "C · OTS · Sarp okur"
       }
      ],
-     "frame": "assets/0e62d528f2c7ca0aac5b517d95b8211f.jpg",
+     "frame": "assets/df3dda9aba0354210b7a535e51d85fb1.jpg",
      "frameLabel": "A · MCU · Deniz"
     },
     {
@@ -653,7 +653,7 @@
      "desc": "Kamera Sarp’ın (sağ koltuk) yanında. Deniz (sol koltuk) saate bakar, “Seatbelts” der; Sarp kemer ışığı düğmesine basar: “On.” Henüz hiçbir şey yok. Kabinde kemer ikonu yanar, Selin son tepsiyi toplar, yolcular kemerlerini takar.",
      "dialog": "DENİZ: Seatbelts.\nSARP: On.\nSES: “Ding.” Kemer tıkırtıları.",
      "status": "Boarded",
-     "frame": "assets/35aaadc96f9f2ea3440ea126e770718e.jpg",
+     "frame": "assets/b6f19e0c5facf4875da16dfeff5a5b3e.jpg",
      "frameLabel": "A · MCU · 50mm",
      "method": "",
      "alts": [
@@ -939,7 +939,7 @@
      "desc": "Yaklaşma. Camdan şafak: karlı Alatau Dağları'nın arkasından doğan güneş, aşağıda uyanan Almatı, önde pist ışıkları.",
      "dialog": "ATC: Pusula one-two-zero, runway zero-five right, cleared to land.\nSARP: Cleared to land, Pusula one-two-zero.",
      "status": "Boarded",
-     "frame": "assets/ecd9d2307a39aac10ad2f49638b3500d.jpg?v=2",
+     "frame": "assets/53f338bd2c305908ec3e0c5c678d89a7.jpg?v=2",
      "frameLabel": "A · WS · 24mm",
      "method": "",
      "alts": [
@@ -1065,7 +1065,7 @@
      "method": "",
      "alts": [
       {
-       "url": "assets/cb6fc46f85c603b4571923752de3a75a.jpg?v=2",
+       "url": "assets/ea7a56e2fa88643117fd8abfe16f7e3c.jpg?v=2",
        "label": "B · INSERT · checklist"
       },
       {

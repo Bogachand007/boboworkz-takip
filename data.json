@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-15T10:30:04.686697+00:00",
+ "publishedAt": "2026-11-15T10:38:31.162689+00:00",
  "projects": [
   {
    "id": "talpa-film",
@@ -391,7 +391,7 @@
      "dur": 4,
      "tc": "0:46",
      "desc": "Eşleşen geçiş: havadaki su damlaları → gece, kokpit camında yağmur damlaları.",
-     "dialog": "SARP: Before takeoff checklist. Flaps.\nDENİZ: Five, set.\nSARP: Cabin.\nDENİZ: Secured.",
+     "dialog": "SARP: Flaps?\nDENİZ: Five.\nSARP: Cabin?\nDENİZ: Secured.\nSARP: Before takeoff checklist completed.",
      "status": "Boarded",
      "frame": "assets/de7a91923928cc7724eb881e7c743d7f.jpg",
      "frameLabel": "A · CU · 50mm",

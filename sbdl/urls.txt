@@ -1,4 +1,2 @@
-e_c252b https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261115_111254_7c43e6e0-e65b-4319-989e-a217439b54ac.png
-e_c311b https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261115_111254_188e9589-7251-4bd4-812f-c0fcd6fff568.png
-e_n14b1b https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261115_111253_a184e8e1-ff1e-4cc0-a769-e61fa41ea88a.png
-e_c222a https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261115_111407_978cb675-5e52-40c9-b466-c0509b6c1730.png
+e_c252b1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261115_111605_ea449936-e696-438c-be8e-5e12b2b38d17.png
+e_c252b2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261115_111605_024d7b5c-82f9-42f6-91c2-c3bec002a30a.png

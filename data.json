@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-15T18:35:14Z",
+ "publishedAt": "2026-11-15T18:46:36Z",
  "projects": [
   {
    "id": "talpa-film",
@@ -1060,7 +1060,7 @@
      "desc": "Boş kokpit, sabah ışığı. Son checklist maddesi işaretlenir. Deniz Sarp'a bakar. Telefonuna yazar: “Ben de indim ❤️”",
      "dialog": "SARP: İyi uçuştu kaptanım.\nDENİZ: Teşekkürler Sarp. Ellerine sağlık.\nSES: Mesaj: “Ben de indim ❤️”\nSELİN (anons, devam): Sevdiklerinizle güzel bir gün geçirmenizi dileriz.",
      "status": "Boarded",
-     "frame": "assets/07bdeed7547eb5597c344c0a8db77cfc.jpg?v=2",
+     "frame": "assets/9144178d0cb9ffef491a2a4a2be73c00.jpg?v=2",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
@@ -1221,7 +1221,7 @@
        "label": "B · CU · pist çizilir"
       },
       {
-       "url": "assets/0e588493876b287e2d1988e5a777c61b.jpg?v=2",
+       "url": "assets/85dc639ab19b6b73be2229f26e7ad8d0.jpg?v=2",
        "label": "C · CU · Deniz’in yüzü"
       }
      ]

@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-15T07:57:04.103138+00:00",
+ "publishedAt": "2026-11-15T08:13:45.873428+00:00",
  "projects": [
   {
    "id": "talpa-film",
@@ -393,7 +393,7 @@
      "desc": "Eşleşen geçiş: havadaki su damlaları → gece, kokpit camında yağmur damlaları.",
      "dialog": "SARP: Before takeoff checklist. Flaps.\nDENİZ: Five, set.\nSARP: Cabin.\nDENİZ: Secured.",
      "status": "Boarded",
-     "frame": "assets/0fcfd4577b6024720b27fe249a0f7087.jpg",
+     "frame": "assets/de7a91923928cc7724eb881e7c743d7f.jpg",
      "frameLabel": "A · CU · 50mm",
      "method": "",
      "alts": [
@@ -653,7 +653,7 @@
      "desc": "Deniz (sol koltuk) saate bakar, kemer ışığı düğmesine basar. Henüz hiçbir şey yok. Kabinde kemer ikonu yanar, Selin son tepsiyi toplar, yolcular kemerlerini takar.",
      "dialog": "SES: “Ding.” Kemer tıkırtıları.",
      "status": "Boarded",
-     "frame": "assets/3b1a89a6acc3f557756f7e90b0a31f95.jpg",
+     "frame": "assets/1bac7f341877a8efb41d9b3465c09353.jpg",
      "frameLabel": "A · MCU · 50mm",
      "method": "",
      "alts": [
@@ -965,7 +965,7 @@
      "desc": "Deniz ve Sarp yan yana, tam odak. Karşılıklı tek bakış.",
      "dialog": "OTOMATİK SES: Minimums.\nDENİZ: Landing.\nOTOMATİK SES: Fifty… thirty… ten.",
      "status": "Boarded",
-     "frame": "assets/c9ffd73b878050800c046f0a5096a8c4.jpg",
+     "frame": "assets/f6ef6d61e5de57a797ffe66318f9b41f.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [

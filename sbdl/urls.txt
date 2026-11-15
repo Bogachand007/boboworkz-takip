@@ -109,3 +109,4 @@ n_c1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20
 n_c2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261115_071213_c3251201-950e-4a83-8972-54a4acebba83.png
 n_c3 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261115_071236_840d058e-2aaf-4af8-8276-b1fb73f9c1d3.png
 r2_c142 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261115_071213_9bea4937-c83c-43b1-b2d3-c2488edb56dc.png
+r3_f06 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261115_071611_e82fceda-7f29-4458-a1b1-db59613eb49f.png

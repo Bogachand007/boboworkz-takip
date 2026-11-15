@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-15T09:28:06.794391+00:00",
+ "publishedAt": "2026-11-15T09:41:46.204788+00:00",
  "projects": [
   {
    "id": "talpa-film",
@@ -679,7 +679,7 @@
      "desc": "Tek, hafif bir sarsıntı. Kahve bardağının yüzeyinde halkalar titrer, sonra durulur. Selin uyuyan yaşlı kadının battaniyesini düzeltir. Kadın uyanmaz.",
      "dialog": "SES: Gövdenin hafif gıcırtısı, sonra sessizlik. (Alternatif: SPLIT 1)",
      "status": "Boarded",
-     "frame": "assets/914d2d9c894027b02842565e261014bb.jpg",
+     "frame": "assets/1d8f137003b7e4aab479f88939212964.jpg",
      "frameLabel": "A · INSERT · 85mm",
      "method": "",
      "alts": [
@@ -688,7 +688,7 @@
        "label": "B · ECU · kahve"
       },
       {
-       "url": "assets/976e47e0e63f2b8bbd8ce5bf86767ab4.jpg",
+       "url": "assets/7ee6e085f6012f1435e6efae5d8dc42c.jpg",
        "label": "C · MS · Selin ve yaşlı kadın"
       }
      ]

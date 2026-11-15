@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-15T11:37:36Z",
+ "publishedAt": "2026-11-15T13:29:30Z",
  "projects": [
   {
    "id": "talpa-film",
@@ -263,7 +263,7 @@
      "desc": "Ekip valizleriyle terminal koridorunda yürür. Eşleşen geçiş: aynı kompozisyon, akademi koridoru. 19 yaşındaki Deniz kadet sırasında: omzunda tek şerit, kolunun altında spiralli defter.",
      "dialog": "DENİZ (iç ses): Bazı meslekler, yıllar süren bir hazırlıkla başlar.",
      "status": "Boarded",
-     "frame": "assets/cd8febbe86cfe08185d9691488a1f696.jpg",
+     "frame": "assets/085493f61920958adafc1d09132c07a6.jpg",
      "frameLabel": "A · WS · 35mm",
      "method": "",
      "alts": [
@@ -624,8 +624,8 @@
      "move": "hand-held · hafif shake",
      "dur": 8,
      "tc": "1:30",
-     "desc": "Simülatör sonrası değerlendirme. Eğitmen, genç Deniz’in senaryoyu neden yarıda kestiğini sorar.",
-     "dialog": "EĞİTMEN: Peki, neden devam etmedin?\nGENÇ DENİZ: Şartlar değişti. İlk planım artık en güvenli seçenek değildi.\nEĞİTMEN: Tamam. Bir daha bakalım.",
+     "desc": "Simülatör sonrası değerlendirme. Eğitmen, genç Deniz’in senaryoyu neden pas geçtiğini sorar.",
+     "dialog": "EĞİTMEN: Peki, neden pas geçtin?\nGENÇ DENİZ: Anlık durumsal farkındalık problemi yaşadım, pas geçmeyi daha emniyetli gördüm.\nEĞİTMEN: Tamam, aradan sonra bir daha deneyeceğiz.",
      "status": "Boarded",
      "frame": "assets/e89d889ee825a2a84657be256321ecbb.jpg?v=2",
      "frameLabel": "A · MS · 35mm",
@@ -650,10 +650,10 @@
      "move": "hand-held · hafif shake",
      "dur": 3,
      "tc": "1:38",
-     "desc": "Deniz (sol koltuk) saate bakar, kemer ışığı düğmesine basar. Henüz hiçbir şey yok. Kabinde kemer ikonu yanar, Selin son tepsiyi toplar, yolcular kemerlerini takar.",
-     "dialog": "SES: “Ding.” Kemer tıkırtıları.",
+     "desc": "Kamera Sarp’ın (sağ koltuk) yanında. Deniz (sol koltuk) saate bakar, “Seatbelts” der; Sarp kemer ışığı düğmesine basar: “On.” Henüz hiçbir şey yok. Kabinde kemer ikonu yanar, Selin son tepsiyi toplar, yolcular kemerlerini takar.",
+     "dialog": "DENİZ: Seatbelts.\nSARP: On.\nSES: “Ding.” Kemer tıkırtıları.",
      "status": "Boarded",
-     "frame": "assets/a64d42ff69b84cafaf56bb7f010173b9.jpg",
+     "frame": "assets/935afde9feabd62fa7d23798148abd59.jpg",
      "frameLabel": "A · MCU · 50mm",
      "method": "",
      "alts": [
@@ -702,20 +702,20 @@
      "move": "yavaş süzülme",
      "dur": 2,
      "tc": "1:44",
-     "desc": "Gece. Uçak sağa yatık süzülür. Çok uzakta bir bulut kümesi içeriden sessizce aydınlanıp söner. Tehdit değil, manzara.",
+     "desc": "Gece. Ay ışığında bulut denizi; uçak seyir ışıklarıyla sakin süzülür. Tehdit değil, manzara.",
      "dialog": "SES: Sadece rüzgâr.",
      "status": "Boarded",
-     "frame": "assets/2391293867c703f29bdd407b0bd14537.jpg",
-     "frameLabel": "A · EWS",
+     "frame": "assets/79b9f8efd795bbf1134aa2159f418ccc.jpg",
+     "frameLabel": "A · EWS · ay ışığı",
      "method": "",
      "alts": [
       {
-       "url": "assets/b03275e4a5935a965566a2d401be7845.jpg",
-       "label": "B · WS · bulut"
+       "url": "assets/ebc9ac41a7c407474cf7185bf5f5fcd6.jpg",
+       "label": "B · WS · seyir ışıkları"
       },
       {
-       "url": "assets/3e97d969e81a0920c9ef22a8235599e9.jpg",
-       "label": "C · arkadan · uçak"
+       "url": "assets/1ce94cef7159ce0ebb24da7a4e0174bb.jpg",
+       "label": "C · WS · ay ve uçak"
       }
      ]
     },
@@ -729,7 +729,7 @@
      "dur": 4,
      "tc": "1:46",
      "desc": "Emre pencereden uzaktaki ışıkları görür, büyülenir, fotoğraf çeker. Kesme: kokpit.",
-     "dialog": "SARP: Güzel karar kaptanım.\nDENİZ: Ortak kararımız.",
+     "dialog": "SARP: Doğru karar kaptanım.\nDENİZ: Ortak kararımız.",
      "status": "Boarded",
      "frame": "assets/102dd2be7456a1e6068ca0e4310c6a11.jpg",
      "frameLabel": "A · MCU · 50mm",
@@ -755,7 +755,7 @@
      "dur": 4,
      "tc": "1:50",
      "desc": "Otopilot montajı. Otopilot açık, ama kimse boş durmuyor. Sarp planlanan ve kalan yakıtı karşılaştırıp tablete girer. Deniz ekranları sırayla tarar: motorlar, hidrolik, basınç. Selin iki kahveyle kokpite girer, Deniz başıyla teşekkür eder.",
-     "dialog": "SELİN: Kabin sakin kaptanım, kahvaltıya yarım saat var.",
+     "dialog": "SELİN: Kabinde her şey yolunda kaptanım, kahvaltı servisine yarım saat var.",
      "status": "Boarded",
      "frame": "assets/82804839ec8a6443a12ea4a5a4db6ccd.jpg",
      "frameLabel": "A · MS · 35mm",
@@ -783,12 +783,12 @@
      "desc": "Saatler geçiyor. Yazıcıdan saatlik hava raporu çıkar, Sarp okuyup Deniz'e uzatır. Frekans değişir, ekranda uçak ikonu Hazar'ı geçer. Deniz yaklaşma haritasını çoktan açmış, iniş brifingi yapılıyor.",
      "dialog": "ATC (farklı aksanlar, üst üste): …contact Tbilisi… / …Baku Control, radar contact…\nDENİZ: Pas geçersek pist başından sola, Bişkek yakıtı tamam.\nSARP: Anlaşıldı.",
      "status": "Boarded",
-     "frame": "assets/37508211802b2f9227598cfd1fa4aec3.jpg?v=2",
+     "frame": "assets/87e610e2109776a7af5b6ba11ffcec37.jpg?v=2",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/f66dab4eb4e0e124c1cf434a73930a7b.jpg?v=2",
+       "url": "assets/e105a7b0b0f337b09f9fbc2db5ddd374.jpg?v=2",
        "label": "B · INSERT · yazıcı"
       },
       {
@@ -814,7 +814,7 @@
      "method": "",
      "alts": [
       {
-       "url": "assets/d99bf687fbee4a86ce811a168ac64b69.jpg",
+       "url": "assets/d957d05660151e23bbb666599bff3f5c.jpg",
        "label": "B · INSERT · telefon"
       },
       {
@@ -885,7 +885,7 @@
      "dur": 6,
      "tc": "2:13",
      "desc": "Kabin dinler. Çocuk kitabını kapatır. Yaşlı kadın battaniyenin altında uyanır. Emre kulaklığını çıkarır.",
-     "dialog": "DENİZ (anons, devam): Uçuşumuz emniyetle devam ediyor. Almatı’ya yaklaşırken sizleri yeniden bilgilendireceğiz.",
+     "dialog": "DENİZ (anons, devam): Birazdan Almatı Havalimanı’na iniş için alçalışımıza başlayacağız, yaklaşık yarım saat içerisinde iniş yapmayı planlıyoruz,",
      "status": "Boarded",
      "frame": "assets/53b213e248c6112eb5224a6a588ea170.jpg",
      "frameLabel": "A · WS · 28mm",
@@ -911,7 +911,7 @@
      "dur": 4,
      "tc": "2:19",
      "desc": "Emre kulaklığını cebine koyar. Pencereden bakar: ufukta ilk şafak, karlı dağların üstünde pembe bir çizgi. Gülümser.",
-     "dialog": "DENİZ (anons, alçalma): Kemerlerinizi bağlamanızı rica ederiz.",
+     "dialog": "DENİZ (anons, devam): rapor edilen hava durumu; gökyüzü bulutlu, sıcaklık 9 derecedir. Emniyetli inişler dileriz.",
      "status": "Boarded",
      "frame": "assets/2d03b4a0a99f13f024f16cb0af7e1881.jpg",
      "frameLabel": "A · MCU · 50mm",
@@ -939,12 +939,12 @@
      "desc": "Yaklaşma. Camdan şafak: karlı Alatau Dağları'nın arkasından doğan güneş, aşağıda uyanan Almatı, önde pist ışıkları.",
      "dialog": "ATC: Pusula one-two-zero, runway zero-five right, cleared to land.\nSARP: Cleared to land, Pusula one-two-zero.",
      "status": "Boarded",
-     "frame": "assets/45136072366e986f91a943f28fe4b211.jpg?v=2",
+     "frame": "assets/d69b3cc6be5a02e687c192eaae6f7900.jpg?v=2",
      "frameLabel": "A · WS · 24mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/3a159e1307fde37ffbec5277c74466a2.jpg?v=2",
+       "url": "assets/a0cf61fd339b602977abc584c320d7fe.jpg?v=2",
        "label": "B · INSERT · ATC/pist"
       },
       {
@@ -962,10 +962,10 @@
      "move": "hand-held · hafif shake",
      "dur": 4,
      "tc": "2:28",
-     "desc": "Deniz ve Sarp yan yana, tam odak. Karşılıklı tek bakış.",
-     "dialog": "OTOMATİK SES: Minimums.\nDENİZ: Landing.\nOTOMATİK SES: Fifty… thirty… ten.",
+     "desc": "Deniz ve Sarp yan yana, tam odak. İkisi de piste bakar; Sarp göstergeleri izler. Birbirlerine bakmazlar.",
+     "dialog": "OTOMATİK SES: Minimums.\nDENİZ: Continue.\nOTOMATİK SES: Fifty… thirty… ten.",
      "status": "Boarded",
-     "frame": "assets/a860e4a0ce0ca4c7baf5811d00e42ddc.jpg",
+     "frame": "assets/7ae2121fe647c690811d03db2ef50e15.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
@@ -996,7 +996,7 @@
      "method": "",
      "alts": [
       {
-       "url": "assets/407fbef21147841e0897c5ced9af6411.jpg",
+       "url": "assets/6be0737e03c7327080a49f84870b4a22.jpg",
        "label": "B · eşleşme · ilk solo"
       },
       {
@@ -1017,16 +1017,16 @@
      "desc": "Kimse alkışlamaz. Kemerler açılır, dolaplar açılır. Emre telefonuna tek kelime yazar: “İndik.” Gönder.",
      "dialog": "SES: Kemer tıkırtıları, gündelik sesler.\nSELİN (anons): Değerli misafirlerimiz, Almatı’ya hoş geldiniz.",
      "status": "Boarded",
-     "frame": "assets/3e40bcc4f1ce644b87d076a5cc92992e.jpg",
+     "frame": "assets/33b344283ffa246ee40e59d55b7d070a.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/1b7df9bbae13a9a148dcedcfc71170cf.jpg",
+       "url": "assets/af6d3b64acdee6e5efc63a25c58ef6dd.jpg",
        "label": "B · INSERT · telefon"
       },
       {
-       "url": "assets/56d182351983faf103c98c7c9e89e2fb.jpg",
+       "url": "assets/68b68acd7ff687e045146954b1356e26.jpg",
        "label": "C · WS · koridor"
       }
      ]
@@ -1040,10 +1040,10 @@
      "move": "hand-held · hafif shake → terminal",
      "dur": 3,
      "tc": "2:39",
-     "desc": "Uçak kapısı. Deniz kokpit kapısında yolcuları uğurlar. Emre önünden geçerken bir an durur. Sonra terminalde annesine sarılır.",
-     "dialog": "EMRE: Teşekkürler, kaptan.\nDENİZ: İyi günler.",
+     "desc": "Uçak kapısı. Selin kapıda yolcuları uğurlar. Emre önünden geçerken bir an durur. Sonra terminalde annesine sarılır.",
+     "dialog": "EMRE: Teşekkür ederiz.",
      "status": "Boarded",
-     "frame": "assets/97a085cdb93032f3e7283c29fa0ba9bf.jpg?v=2",
+     "frame": "assets/149f33dbd6184b4ea517095f53b2e97c.jpg?v=2",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": []
@@ -1086,12 +1086,12 @@
      "desc": "Almatı Havalimanı, gelen yolcu salonu. Emre annesini görür, durur, yürür; anne ve oğul kalabalığın içinde sarılır.",
      "dialog": "SELİN (anons, son): Bizi tercih ettiğiniz için teşekkür ederiz.\nSES: Terminal uğultusu, anons kalabalığın içinde kaybolur. Diyalog yok.",
      "status": "Boarded",
-     "frame": "assets/a3826587ada82122dc617c61ae93bbbb.jpg",
+     "frame": "assets/03012504cc73e4a84586d604d7a35798.jpg",
      "frameLabel": "A · WS · kavuşma",
      "method": "",
      "alts": [
       {
-       "url": "assets/174d151016bfec2dc017665c22f2b8f5.jpg",
+       "url": "assets/f9939a0201ee3f0d00c4b01031319406.jpg",
        "label": "B · CU · anne"
       },
       {
@@ -1112,17 +1112,17 @@
      "desc": "Deniz ve Sarp terminalde yürürken Emre’nin annesine sarıldığını fark eder. Omuzlarının üzerinden anne ve oğulun sarılışını görürüz; sonra iki pilot gururla birbirine bakar.",
      "dialog": "SES: Ayak sesleri ve tekerlekli çantalar bir an yavaşlar. Müzik inceltir. Diyalog yok.",
      "status": "Boarded",
-     "frame": "assets/41d813d34a17a4f8b2d8bb8886c2eaf5.jpg?v=2",
-     "frameLabel": "A · CU · Deniz ve Sarp fark eder",
+     "frame": "assets/395ea8061720ecefe9af169323e3967b.jpg?v=2",
+     "frameLabel": "A · MS · Deniz ve Sarp fark eder",
      "method": "",
      "alts": [
       {
-       "url": "assets/695536c940ba19069c78c7876760e42b.jpg?v=2",
+       "url": "assets/a8c45a50fdfef73a6f000e9dc252ad21.jpg?v=2",
        "label": "B · OTS · omuzlarının üzerinden kavuşma"
       },
       {
-       "url": "assets/fc8bf51ca1cf70b55473a44cc1fcbf4b.jpg?v=2",
-       "label": "C · CU · gururla birbirlerine bakarlar"
+       "url": "assets/0d8ed4e57f14b809da12c7f37e6b7860.jpg?v=2",
+       "label": "C · MS · gururla birbirlerine bakarlar"
       }
      ]
     },
@@ -1138,16 +1138,16 @@
      "desc": "Ekip yürümeye devam eder; arkadan geniş takip planında Emre ve annesi kadrajın derinliğinde hâlâ sarılıdır.",
      "dialog": "SES: Müzik recap’e köprü olur. Diyalog yok.",
      "status": "Boarded",
-     "frame": "assets/05087c7932b41fdfc9ea7a4a84b459f2.jpg",
+     "frame": "assets/758a5a90723bb6b0a97d56dfeb5cbd1a.jpg",
      "frameLabel": "A · WS · arkadan takip",
      "method": "",
      "alts": [
       {
-       "url": "assets/a5719504666e1cc63aa96ebb81a5334d.jpg",
+       "url": "assets/2982042b98bd176f345f726a9cf8541d.jpg",
        "label": "B · LOW · adımlar, derinlikte kavuşma"
       },
       {
-       "url": "assets/fea7bbd2ac5bca3efff88b9632cb7dfa.jpg",
+       "url": "assets/6ace469b84234a7c23af8960b1391bc6.jpg",
        "label": "C · WS · terminal geneli"
       }
      ]
@@ -1164,7 +1164,7 @@
      "desc": "Gece gökyüzü, radardaki oluşum / Eğitim yılları, simülatör, “Tekrar” / Yakıt kararı, yakıt kontrolü, rota değişikliği",
      "dialog": "DENİZ (dış ses): Bizi çoğu zaman, bir şeyler ters gittiğinde hatırlarsınız.\nDENİZ (dış ses): Oysa biz, hiçbir şey ters gitmesin diye yıllarımızı veririz.\nDENİZ (dış ses): Her uçuşta yeniden hazırlanır, yeniden kontrol eder, yeniden düşünürüz.",
      "status": "Boarded",
-     "frame": "assets/2391293867c703f29bdd407b0bd14537.jpg",
+     "frame": "assets/79b9f8efd795bbf1134aa2159f418ccc.jpg",
      "method": "",
      "alts": []
     },

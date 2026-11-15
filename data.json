@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-15T07:26:02.293092Z",
+ "publishedAt": "2026-11-15T07:57:04.103138+00:00",
  "projects": [
   {
    "id": "talpa-film",
@@ -393,12 +393,12 @@
      "desc": "Eşleşen geçiş: havadaki su damlaları → gece, kokpit camında yağmur damlaları.",
      "dialog": "SARP: Before takeoff checklist. Flaps.\nDENİZ: Five, set.\nSARP: Cabin.\nDENİZ: Secured.",
      "status": "Boarded",
-     "frame": "assets/3d1a608faa2e0aaeb7fb274f0c49cb4a.jpg?v=2",
+     "frame": "assets/0fcfd4577b6024720b27fe249a0f7087.jpg",
      "frameLabel": "A · CU · 50mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/65dc41ee10a642b6e156239edf480f3b.jpg?v=2",
+       "url": "assets/29ce79a315b764bf81e7e0088cc160bd.jpg",
        "label": "B · OTS · checklist"
       },
       {
@@ -445,16 +445,16 @@
      "desc": "Seyir. Sarı okuma lambaları. Emre yemeğini yer. Bir çocuk kitap okur. Yaşlı bir çift gülüşür. Selin servis arabasıyla ilerler.",
      "dialog": "SES: Kabinin yumuşak uğultusu, çatal-bıçak.",
      "status": "Boarded",
-     "frame": "assets/a11f857d53f0054158d97ac9b67202d3.jpg",
+     "frame": "assets/e18e48f923bfffc2a12a08828e8567ae.jpg",
      "frameLabel": "A · WS · 28mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/141225f758c9e1f2a240d5e015b7ad29.jpg",
+       "url": "assets/ffc846434b2c92fc126e4f00f7fdfd5e.jpg",
        "label": "B · MS · Selin servis"
       },
       {
-       "url": "assets/4902d9799511eb62d5392271fadb3c5c.jpg",
+       "url": "assets/d237b3aa44464d55a37eeef5b2c5efbd.jpg",
        "label": "C · CU · çocuk ve kitap"
       }
      ]
@@ -549,16 +549,16 @@
      "desc": "Hava radarı ekranı: rotanın üzerinde kırmızı-mor hücre. Sarp ekranı gösterir. Deniz bakar, kısa bir sessizlik.",
      "dialog": "SARP: Önümüzde oluşum var. Otuz mil.\nDENİZ: Yirmi mil boyunca sağa, 150 baş isteyelim.",
      "status": "Boarded",
-     "frame": "assets/d67798386a670398ec6f90f03924fd49.jpg?v=2",
+     "frame": "assets/9cdeca5ca524bb226357af35dfaf05f2.jpg",
      "frameLabel": "A · MCU · 50mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/32bac0b97db0f844898490705195592e.jpg?v=2",
+       "url": "assets/ce18a33ed10335ca0c135c5ce398905d.jpg",
        "label": "B · INSERT · radar"
       },
       {
-       "url": "assets/02b2ca255dd61c04786f5877ba69def4.jpg?v=2",
+       "url": "assets/2cf985972d8745a6df7af65dd485bc48.jpg",
        "label": "C · MCU · Deniz düşünür"
       }
      ]
@@ -575,7 +575,7 @@
      "desc": "Deniz (sol koltuk) telsiz tuşuna basar; Sarp (sağ koltuk) dinler.",
      "dialog": "DENİZ (telsiz): Ankara Control, Pusula one-two-zero, request heading one-five-zero for twenty miles due weather.\nATC (filtreli): Pusula one-two-zero, heading one-five-zero approved, report clear of weather.",
      "status": "Boarded",
-     "frame": "assets/624c764ab28914ca2868ff14e8fbc720.jpg",
+     "frame": "assets/d64c17ff3ba6a6842556294681e93ce4.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
@@ -650,19 +650,19 @@
      "move": "hand-held · hafif shake",
      "dur": 3,
      "tc": "1:38",
-     "desc": "Sarp (sağ koltuk) saate bakar, kemer ışığı düğmesine basar; Deniz sol koltukta. Henüz hiçbir şey yok. Kabinde kemer ikonu yanar, Selin son tepsiyi toplar, yolcular kemerlerini takar.",
+     "desc": "Deniz (sol koltuk) saate bakar, kemer ışığı düğmesine basar. Henüz hiçbir şey yok. Kabinde kemer ikonu yanar, Selin son tepsiyi toplar, yolcular kemerlerini takar.",
      "dialog": "SES: “Ding.” Kemer tıkırtıları.",
      "status": "Boarded",
-     "frame": "assets/fee0a2fab8b32f2873e7420d2f72bcee.jpg",
+     "frame": "assets/3b1a89a6acc3f557756f7e90b0a31f95.jpg",
      "frameLabel": "A · MCU · 50mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/7ce06e6c0fec564cf27c0acf3182635e.jpg",
+       "url": "assets/583688a6b174f87aff80a79e18b7bfe1.jpg",
        "label": "B · INSERT · kemer ikonu"
       },
       {
-       "url": "assets/71df53c04cec31677b81e4522db1edf4.jpg",
+       "url": "assets/87da726a9284a102d84c346a1c29a9d9.jpg",
        "label": "C · WS · kabin"
       }
      ]
@@ -679,7 +679,7 @@
      "desc": "Tek, hafif bir sarsıntı. Kahve bardağının yüzeyinde halkalar titrer, sonra durulur. Selin uyuyan yaşlı kadının battaniyesini düzeltir. Kadın uyanmaz.",
      "dialog": "SES: Gövdenin hafif gıcırtısı, sonra sessizlik. (Alternatif: SPLIT 1)",
      "status": "Boarded",
-     "frame": "assets/28ae31f490f0e43dc9117af3ce7a9502.jpg",
+     "frame": "assets/bd7fd4735a7876bbc42ba1e7209fd230.jpg",
      "frameLabel": "A · INSERT · 85mm",
      "method": "",
      "alts": [
@@ -688,7 +688,7 @@
        "label": "B · ECU · kahve"
       },
       {
-       "url": "assets/39e6a1a7d9810c3b054b2a3d3baf88f0.jpg",
+       "url": "assets/ef4acb779a5f30f7318e3922393cfa6d.jpg",
        "label": "C · MS · Selin ve yaşlı kadın"
       }
      ]
@@ -809,16 +809,16 @@
      "desc": "Sakin seyir. Sarp uçak modundaki telefonunu bir an açar: arka planda iki çocuğu. Deniz fark eder.",
      "dialog": "SARP: Büyük olan pilot olacakmış.\nDENİZ: (gülümser) Benimkinin uçakları hep havada. İndirmeyi bana bırakıyor.",
      "status": "Boarded",
-     "frame": "assets/f52cc248a2728250882e6831458f11d6.jpg?v=2",
+     "frame": "assets/f20f90c0cb98417efe5a27912a96b7c1.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/4bfcfcc5f480ea39a781d254aa2e04fc.jpg?v=2",
+       "url": "assets/1391da7c5a2d5b7c325d10e956c9effd.jpg",
        "label": "B · INSERT · telefon"
       },
       {
-       "url": "assets/b397765432a1ed8dc0884b7364673f0a.jpg?v=2",
+       "url": "assets/fbc108cef044d36c470bfd60d08d8be8.jpg",
        "label": "C · MCU · Deniz gülümser"
       }
      ]
@@ -887,16 +887,16 @@
      "desc": "Kabin dinler. Çocuk kitabını kapatır. Yaşlı kadın battaniyenin altında uyanır. Emre kulaklığını çıkarır.",
      "dialog": "DENİZ (anons, devam): Uçuşumuz emniyetle devam ediyor. Almatı’ya yaklaşırken sizleri yeniden bilgilendireceğiz.",
      "status": "Boarded",
-     "frame": "assets/4859caacdcfde1f01f43f6fa937fc9a2.jpg",
+     "frame": "assets/53b213e248c6112eb5224a6a588ea170.jpg",
      "frameLabel": "A · WS · 28mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/9dbd188cc89f665fb9c58ebae1eb5dd8.jpg",
+       "url": "assets/f1d3142957846ffcf8631b0662f26b50.jpg",
        "label": "B · CU · yaşlı kadın"
       },
       {
-       "url": "assets/b17afdf3b31231c481afc13715127cc9.jpg",
+       "url": "assets/3473b81be7fa845dba6ff9831eb84189.jpg",
        "label": "C · MS · Emre"
       }
      ]
@@ -913,16 +913,16 @@
      "desc": "Emre kulaklığını cebine koyar. Pencereden bakar: ufukta ilk şafak, karlı dağların üstünde pembe bir çizgi. Gülümser.",
      "dialog": "DENİZ (anons, alçalma): Kemerlerinizi bağlamanızı rica ederiz.",
      "status": "Boarded",
-     "frame": "assets/33eaed9779c30f92d9dc4516de0c28c3.jpg",
+     "frame": "assets/2d03b4a0a99f13f024f16cb0af7e1881.jpg",
      "frameLabel": "A · MCU · 50mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/5a9d7d29728a1822a31c45cbcdb75de7.jpg",
+       "url": "assets/feb500c26438b08afc9ae866fc261a9e.jpg",
        "label": "B · POV · şafak"
       },
       {
-       "url": "assets/5b8407f618743617eb0fab55a1403ef2.jpg",
+       "url": "assets/8723fb606d826e07586ba18a4e260b72.jpg",
        "label": "C · WS · kabin şafak"
       }
      ]
@@ -965,7 +965,7 @@
      "desc": "Deniz ve Sarp yan yana, tam odak. Karşılıklı tek bakış.",
      "dialog": "OTOMATİK SES: Minimums.\nDENİZ: Landing.\nOTOMATİK SES: Fifty… thirty… ten.",
      "status": "Boarded",
-     "frame": "assets/64248293ecdcbda547f4747a8e9de446.jpg?v=2",
+     "frame": "assets/c9ffd73b878050800c046f0a5096a8c4.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
@@ -1017,16 +1017,16 @@
      "desc": "Kimse alkışlamaz. Kemerler açılır, dolaplar açılır. Emre telefonuna tek kelime yazar: “İndik.” Gönder.",
      "dialog": "SES: Kemer tıkırtıları, gündelik sesler.\nSELİN (anons): Değerli misafirlerimiz, Almatı’ya hoş geldiniz.",
      "status": "Boarded",
-     "frame": "assets/1c743f869e2888fe9985b576bb62a68e.jpg",
+     "frame": "assets/3e40bcc4f1ce644b87d076a5cc92992e.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/ed2789c4eab23c8e0e1990e36b6c5004.jpg",
+       "url": "assets/1b7df9bbae13a9a148dcedcfc71170cf.jpg",
        "label": "B · INSERT · telefon"
       },
       {
-       "url": "assets/1677c1b203692ceb32f48c808f733918.jpg",
+       "url": "assets/56d182351983faf103c98c7c9e89e2fb.jpg",
        "label": "C · WS · koridor"
       }
      ]

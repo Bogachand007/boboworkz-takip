@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-15T09:50:19.360821+00:00",
+ "publishedAt": "2026-11-15T10:28:05.871597+00:00",
  "projects": [
   {
    "id": "talpa-film",
@@ -183,7 +183,7 @@
      "dur": 4,
      "tc": "0:09",
      "desc": "Emre biniş kapısındaki bekleme salonunda, sırt çantası dizinde. Almatı'daki annesine yazar: “Biniyorum anne, sabah oradayım.” Telefonu cebine koyar, esner.",
-     "dialog": "ANONS (terminal): Almatı seferinin sayın yolcuları, biniş başlamıştır…",
+     "dialog": "ANONS (terminal): Almatı seferinin sayın yolcuları, uçağa biniş için lütfen kapıya geçiniz.",
      "status": "Boarded",
      "frame": "assets/77d406d28ef67f717ea2c59c554f7deb.jpg",
      "frameLabel": "A · MS · 35mm",
@@ -209,7 +209,7 @@
      "dur": 8,
      "tc": "0:13",
      "desc": "Ekip terminali, uçuş planlama masası. Masada meteoroloji haritası. Sarp parmağıyla rotayı izler: Doğu Anadolu, Hazar, Kazakistan.",
-     "dialog": "SARP: Doğu Anadolu’da günden kalma konvektif oluşumlar var. Sapma ihtimali yüksek. Ekstra yakıt alalım; yedek meydan Bişkek.\nDENİZ: Katılıyorum. Alalım.\nSARP: Dispatch’i arıyorum.",
+     "dialog": "SARP: Doğu Anadolu’da dünden kalma konvektif oluşumlar var. Rotadan kaçınma yapma ihtimalimiz yüksek. Ekstra yakıt alalım; yedek meydan Bişkek.\nDENİZ: Katılıyorum. Alalım.\nSARP: Dispatch’i arıyorum.",
      "status": "Boarded",
      "frame": "assets/10f8a792d864e3f38c2381f4e33a9aa2.jpg",
      "frameLabel": "A · MS · 35mm",

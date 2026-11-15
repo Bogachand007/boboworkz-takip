@@ -1,4 +1,0 @@
-ext1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261115_101001_b0f1a5b1-6887-4eb0-aebd-21aa92f8c96d.png
-ext2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261115_101001_3182965f-511b-4334-9159-d58c442605e2.png
-ext3 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261115_101001_621a2670-5e05-49a2-a993-2017e2aa6c65.png
-ext4 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261115_101002_266d5f5f-2a50-4d2e-b6a2-8c90a381a679.png

@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-15T17:59:47Z",
+ "publishedAt": "2026-11-15T18:35:14Z",
  "projects": [
   {
    "id": "talpa-film",
@@ -393,12 +393,12 @@
      "desc": "Eşleşen geçiş: havadaki su damlaları → gece, kokpit camında yağmur damlaları.",
      "dialog": "SARP: Flaps?\nDENİZ: Five.\nSARP: Cabin?\nDENİZ: Secured.\nSARP: Before takeoff checklist completed.",
      "status": "Boarded",
-     "frame": "assets/a3fcffa62514e6ae7c24b96641542b12.jpg",
+     "frame": "assets/250456bd1511cd641a5f7e59ca25a9d6.jpg",
      "frameLabel": "A · CU · 50mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/9409f4eb195409dbbff7f2a4a344dd01.jpg",
+       "url": "assets/d73965e9644346f59b5cc09460276d23.jpg",
        "label": "B · OTS · checklist"
       },
       {
@@ -419,7 +419,7 @@
      "desc": "Genç Deniz Cessna 172 eğitim uçağında, eli gaz topuzunda (itme-çekme). Eşleşen geçiş: bugünkü Deniz'in eli, aynı hareket. Uçak gece pistinden kalkar.",
      "dialog": "SARP: Thrust set… V1… Rotate.\nDENİZ (iç ses): Sonra anlarsınız… Eğitim hiç bitmez. Çünkü her yeni uçuş, aynı özeni yeniden ister.",
      "status": "Boarded",
-     "frame": "assets/60be90cb3ff859fae8c2cdc1183479fd.jpg?v=2",
+     "frame": "assets/69bea30546f4041e00be5d7f44581fe5.jpg?v=2",
      "frameLabel": "A · INSERT · 50mm",
      "method": "",
      "alts": [
@@ -508,7 +508,7 @@
        "label": "C · OTS · Sarp okur"
       }
      ],
-     "frame": "assets/df3dda9aba0354210b7a535e51d85fb1.jpg",
+     "frame": "assets/c5739cec9ee8a094608465d0f196ad42.jpg",
      "frameLabel": "A · MCU · Deniz"
     },
     {
@@ -575,7 +575,7 @@
      "desc": "Sarp (sağ koltuk, pilot monitoring) telsiz tuşuna basar; Deniz (sol koltuk) dinler.",
      "dialog": "SARP (telsiz): Ankara Control, Pusula one-two-zero, request heading one-five-zero for twenty miles due weather.\nATC (filtreli): Pusula one-two-zero, heading one-five-zero approved, report clear of weather.",
      "status": "Boarded",
-     "frame": "assets/4a019b7c3b7d95f67b282644e65876e6.jpg",
+     "frame": "assets/db7249d225504019aa3b74f6e80484e3.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
@@ -762,7 +762,7 @@
      "method": "",
      "alts": [
       {
-       "url": "assets/0f71cbd2541e9c82c65a70c47fa72a6a.jpg?v=2",
+       "url": "assets/718af236d7e41ec343a4bf4ae43736ac.jpg?v=2",
        "label": "B · INSERT · tablet"
       },
       {
@@ -809,7 +809,7 @@
      "desc": "Sakin seyir; ikisi de sürekli kontrol halinde. Sarp uçak modundaki telefonunu bir an açar: arka planda iki çocuğu. Deniz gözü enstrümanlardayken göz ucuyla bakar, hafifçe gülümser.",
      "dialog": "SARP: Büyük olan pilot olacakmış.\nDENİZ: (gülümser) Benimkinin uçakları hep havada. İndirmeyi bana bırakıyor.",
      "status": "Boarded",
-     "frame": "assets/f1c0e78202293b72a3c500f51657e7e1.jpg",
+     "frame": "assets/89c43f313e6c2bc64467b61bc6819c05.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
@@ -866,7 +866,7 @@
      "method": "",
      "alts": [
       {
-       "url": "assets/29b74e154392f6af3ed8e1acfd0db640.jpg?v=2",
+       "url": "assets/f0705ef2cabca251c203c5ac363bd974.jpg?v=2",
        "label": "B · INSERT · mikrofon"
       },
       {
@@ -892,7 +892,7 @@
      "method": "",
      "alts": [
       {
-       "url": "assets/f1d3142957846ffcf8631b0662f26b50.jpg",
+       "url": "assets/7a6868c510544afa19622e197e31c63a.jpg",
        "label": "B · CU · yaşlı kadın"
       },
       {
@@ -996,11 +996,11 @@
      "method": "",
      "alts": [
       {
-       "url": "assets/b87ccaef9e1cf62f3407e68fc096558a.jpg",
+       "url": "assets/34d38bf8363f25f29a869cb1547126b0.jpg",
        "label": "B · eşleşme · ilk solo"
       },
       {
-       "url": "assets/85c302081f1d068c52fd1f3326f0dc40.jpg",
+       "url": "assets/340aff7d77a8ff3c79e56b946bc6cef5.jpg",
        "label": "C · WS · iniş"
       }
      ]
@@ -1022,7 +1022,7 @@
      "method": "",
      "alts": [
       {
-       "url": "assets/3893ce28f1ce7668fbb159ac2459a541.jpg",
+       "url": "assets/9339c25c58959ec0400ca53f17a1a62d.jpg",
        "label": "B · INSERT · telefon"
       },
       {
@@ -1060,16 +1060,16 @@
      "desc": "Boş kokpit, sabah ışığı. Son checklist maddesi işaretlenir. Deniz Sarp'a bakar. Telefonuna yazar: “Ben de indim ❤️”",
      "dialog": "SARP: İyi uçuştu kaptanım.\nDENİZ: Teşekkürler Sarp. Ellerine sağlık.\nSES: Mesaj: “Ben de indim ❤️”\nSELİN (anons, devam): Sevdiklerinizle güzel bir gün geçirmenizi dileriz.",
      "status": "Boarded",
-     "frame": "assets/1322e378203ca8bca0e32209aa618ec6.jpg?v=2",
+     "frame": "assets/07bdeed7547eb5597c344c0a8db77cfc.jpg?v=2",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/ea7a56e2fa88643117fd8abfe16f7e3c.jpg?v=2",
+       "url": "assets/d2d4f6c4fd20898924a07c7ca5f074ad.jpg?v=2",
        "label": "B · INSERT · checklist"
       },
       {
-       "url": "assets/13517b13d435ebbce9cb0bd04ee975fd.jpg?v=2",
+       "url": "assets/e8de5500855d93cdc0547b0db708cdf5.jpg?v=2",
        "label": "C · INSERT · telefon"
       }
      ]

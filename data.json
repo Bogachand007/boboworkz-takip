@@ -1,12 +1,12 @@
 {
- "publishedAt": "2026-11-16T15:43:59Z",
+ "publishedAt": "2026-11-16T18:20:25Z",
  "projects": [
   {
    "id": "talpa-film",
    "title": "TALPA — Doğru Kararların Çoğu Haber Olmaz",
    "client": "TALPA · Türkiye Havayolu Pilotları Derneği",
    "type": "Commercial",
-   "status": "Pre-production",
+   "status": "Shoot / Generate",
    "director": "Boğaçhan Dündar",
    "aspect": "1.78:1",
    "fps": "25",
@@ -1452,8 +1452,8 @@
      "name": "Animatik müşteri onayı",
      "phase": "Pre",
      "start": "2026-11-14",
-     "end": "2026-11-14",
-     "done": false
+     "end": "2026-11-16",
+     "done": true
     },
     {
      "id": "tm5",

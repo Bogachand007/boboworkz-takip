@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-16T14:40:54Z",
+ "publishedAt": "2026-11-16T15:31:11Z",
  "projects": [
   {
    "id": "talpa-film",
@@ -315,12 +315,12 @@
      "desc": "Simülatör. Kırmızı uyarı ışığı. Genç Deniz hata yapmış, nefesi sıkışık.",
      "dialog": "EĞİTMEN: (arkadan, sakin) Tekrar.\nSES: İç ses yok: eğitmen repliği tek başına kalır, ardından nefes.",
      "status": "Boarded",
-     "frame": "assets/8a68806e552cf3e1b8be39c548a1d0bd.jpg",
+     "frame": "assets/6b4668f6f49e53fe9cbc43df48668cd9.jpg",
      "frameLabel": "A · MCU · 50mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/9590fd34499d4a79b0742aadce1404e2.jpg?v=2",
+       "url": "assets/5fbf13a1d60e096648797e9ff2973ad3.jpg",
        "label": "B · OTS · eğitmen"
       },
       {

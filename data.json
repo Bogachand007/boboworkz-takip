@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-16T14:10:52Z",
+ "publishedAt": "2026-11-16T14:40:54Z",
  "projects": [
   {
    "id": "talpa-film",
@@ -315,7 +315,7 @@
      "desc": "Simülatör. Kırmızı uyarı ışığı. Genç Deniz hata yapmış, nefesi sıkışık.",
      "dialog": "EĞİTMEN: (arkadan, sakin) Tekrar.\nSES: İç ses yok: eğitmen repliği tek başına kalır, ardından nefes.",
      "status": "Boarded",
-     "frame": "assets/d4e3a5c7b76e43732a3150c5aef5e204.jpg?v=2",
+     "frame": "assets/8a68806e552cf3e1b8be39c548a1d0bd.jpg",
      "frameLabel": "A · MCU · 50mm",
      "method": "",
      "alts": [
@@ -324,7 +324,7 @@
        "label": "B · OTS · eğitmen"
       },
       {
-       "url": "assets/8f137be99e65323a64bf2fdd5aeb2708.jpg?v=2",
+       "url": "assets/1882bee234784b209a2831ad1aa45b91.jpg",
        "label": "C · ECU · eller"
       }
      ]
@@ -367,16 +367,16 @@
      "desc": "Apronda arkadaşları kovayla başından su döker. Deniz kahkahalarla sırılsıklam. Damlalar havada.",
      "dialog": "DENİZ (iç ses): Bir süre sonra fark edersiniz ki öğrendikleriniz yalnızca uçağı değil, sizi de değiştirmiştir.\nSES: Kahkahalar, alkış; yavaş çekimde kısılır.",
      "status": "Boarded",
-     "frame": "assets/f5fb254229a19d67ef8db9352647c322.jpg?v=2",
+     "frame": "assets/0c6b5caf18ce7e25dda46dbc24adaff5.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/22d64c25f946c2285cfabc435da4a035.jpg?v=2",
+       "url": "assets/73a5307c634c69cb2118fcabb358f891.jpg",
        "label": "B · CU · kahkaha"
       },
       {
-       "url": "assets/c602cf6e74ab7ff1ae9a1e1e0e94a7ac.jpg?v=2",
+       "url": "assets/cb1e63feb998e90f32bb1e8bdbd8ca70.jpg",
        "label": "C · WS · apron"
       }
      ]

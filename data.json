@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-16T15:31:11Z",
+ "publishedAt": "2026-11-16T15:43:59Z",
  "projects": [
   {
    "id": "talpa-film",
@@ -341,12 +341,12 @@
      "desc": "İlk solo. Küçük tek motorlu eğitim uçağı piste iner. Tekerlek yakın plan.",
      "dialog": "DENİZ (iç ses): Önce uçmayı öğrenirsiniz. Sonra ne kadar çok şey bilmediğinizi…\nSES: Pervane sesi.",
      "status": "Boarded",
-     "frame": "assets/c57e12b2627a44b47f441d4ae68ffef1.jpg",
+     "frame": "assets/f2d48ee574d950f7e483edd781f4b74b.jpg",
      "frameLabel": "A · INSERT · 85mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/213fe158f72ecd44e32d16098b000f25.jpg",
+       "url": "assets/8774c1f7c8b144879d2bc68e829a472d.jpg",
        "label": "B · WS · iniş"
       },
       {

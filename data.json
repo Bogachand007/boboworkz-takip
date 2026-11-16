@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-16T13:50:59Z",
+ "publishedAt": "2026-11-16T14:00:56Z",
  "projects": [
   {
    "id": "talpa-film",
@@ -211,16 +211,16 @@
      "desc": "Ekip terminali, uçuş planlama masası. Masada meteoroloji haritası. Sarp parmağıyla rotayı izler: Doğu Anadolu, Hazar, Kazakistan.",
      "dialog": "SARP: Doğu Anadolu’da dünden kalma konvektif oluşumlar var. Rotadan kaçınma yapma ihtimalimiz yüksek. Ekstra yakıt alalım; yedek meydan Bişkek.\nDENİZ: Katılıyorum. Alalım.\nSARP: Dispatch’i arıyorum.",
      "status": "Boarded",
-     "frame": "assets/10f8a792d864e3f38c2381f4e33a9aa2.jpg",
+     "frame": "assets/3e35bbea5771451e1e01421186c21652.jpg",
      "frameLabel": "A · MS · 35mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/a678b119cb8ed442e140bd2f8ebf9ee2.jpg",
+       "url": "assets/4269ee5e957b5307200f2f062f12cc80.jpg",
        "label": "B · ters OTS · Deniz"
       },
       {
-       "url": "assets/e913715006238210359283d3589d7b17.jpg",
+       "url": "assets/a488e709f54b27a0b474a78bd452066b.jpg",
        "label": "C · INSERT · harita"
       }
      ]

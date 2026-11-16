@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-16T13:44:06Z",
+ "publishedAt": "2026-11-16T13:50:59Z",
  "projects": [
   {
    "id": "talpa-film",
@@ -237,16 +237,16 @@
      "desc": "Ekip terminali, kabin ekibi brifing odası. Kokpit brifinginden sonra Deniz ve Sarp, dört kişilik kabin ekibini brifing eder; kabin amiri Selin not alır. Duvarda kalkış ekranı, camın arkasında apron ışıkları.",
      "dialog": "DENİZ: Kalkış sonrası türbülans bekliyoruz. Servis planını ona göre düzenleyelim.\nSELİN: Anlaşıldı kaptanım. Ekibi bilgilendiriyorum.",
      "status": "Boarded",
-     "frame": "assets/ca408aa4c17ffea3d08155aea839a0de.jpg",
+     "frame": "assets/d65e7825caf31984905c9c0ef041b32d.jpg",
      "frameLabel": "A · WS · 28mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/9d4aa6a99601b4d9155915a72ee3dff5.jpg?v=2",
+       "url": "assets/48951ba4e88454ddf90e7f13b127016c.jpg",
        "label": "B · MCU · Deniz konuşur"
       },
       {
-       "url": "assets/c9f2f605330bff519c56904f00df0f8e.jpg?v=2",
+       "url": "assets/4205a6d234994b35dbdfccc90783c1b2.jpg",
        "label": "C · MCU · Selin not alır"
       }
      ]

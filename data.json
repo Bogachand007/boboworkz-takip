@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-16T14:00:56Z",
+ "publishedAt": "2026-11-16T14:10:52Z",
  "projects": [
   {
    "id": "talpa-film",
@@ -289,16 +289,16 @@
      "desc": "Gece masası. Kitaplar, aerodinamik notları, lamba. Genç Deniz uyuklar, ayılır, devam eder.",
      "dialog": "SES: Sayfa çevirme. Jump cut.",
      "status": "Boarded",
-     "frame": "assets/22c6029ccd4802e6c5d1613971b145b4.jpg?v=2",
+     "frame": "assets/b6d97c2e51895a4cd736080f954ece5a.jpg",
      "frameLabel": "A · MS · 50mm",
      "method": "",
      "alts": [
       {
-       "url": "assets/67e009833f23d6387fb18d5adbfebafb.jpg?v=2",
+       "url": "assets/40163b310a7b3723ec157c5f4351ab62.jpg",
        "label": "B · CU · uykulu yüz"
       },
       {
-       "url": "assets/7ff5e56849359df6a6c91ad6719be2b8.jpg?v=2",
+       "url": "assets/1be235c5de2bfd056c8c46c74529afed.jpg",
        "label": "C · INSERT · defter"
       }
      ]

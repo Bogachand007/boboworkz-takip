@@ -1,2 +1,2 @@
-x0 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261116_115457_40b390fd-501d-47ca-a964-ebad43f0159e.png
-x1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261116_115458_eecbaa02-3567-468f-85a4-1d201f557635.png
+w0 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261116_120157_57d035b0-4f07-4ad6-8d5c-02f48c835c21.png
+w1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261116_120158_aa3dcb75-125d-47f1-8c39-d786685443a5.png

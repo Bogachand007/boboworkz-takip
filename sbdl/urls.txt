@@ -1,3 +1,0 @@
-k0 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261117_211601_bc18217d-0b52-4115-b54a-ff918c3e1987.png
-k1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261117_211601_8e91d2ec-72ef-4b88-8fd7-9ce3d86fbf62.png
-k2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261117_211602_177ec9ba-3c8e-4a15-8950-8c708275c21a.png

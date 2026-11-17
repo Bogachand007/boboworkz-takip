@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-16T18:20:25Z",
+ "publishedAt": "2026-11-17T06:32:09Z",
  "projects": [
   {
    "id": "talpa-film",
@@ -1449,7 +1449,7 @@
     },
     {
      "id": "tm4",
-     "name": "Animatik müşteri onayı",
+     "name": "Animatik ve storyboard müşteri onayı",
      "phase": "Pre",
      "start": "2026-11-14",
      "end": "2026-11-16",

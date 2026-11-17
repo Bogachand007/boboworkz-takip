@@ -1,5 +1,5 @@
 {
- "publishedAt": "2026-11-17T06:32:09Z",
+ "publishedAt": "2026-11-17T07:41:19Z",
  "projects": [
   {
    "id": "talpa-film",
@@ -1297,7 +1297,13 @@
      "role": "Kaptan · 38",
      "status": "Approved",
      "img": "assets/9c1f8937022534c141ce50b3009fe3f2.jpg",
-     "imgs": []
+     "imgs": [
+      {
+       "id": "29c3eb80e4484f3bd999864523556369",
+       "label": "MASTER · ceket (4 şerit)",
+       "url": "assets/29c3eb80e4484f3bd999864523556369.jpg"
+      }
+     ]
     },
     {
      "id": "cyz",
@@ -1313,7 +1319,13 @@
      "role": "İkinci pilot · 34",
      "status": "Approved",
      "img": "assets/b619b1dab599b087796f9b34f674be06.jpg",
-     "imgs": []
+     "imgs": [
+      {
+       "id": "66a04c1f73ef85d8b51a06d05acf3748",
+       "label": "MASTER · ceket (3 şerit)",
+       "url": "assets/66a04c1f73ef85d8b51a06d05acf3748.jpg"
+      }
+     ]
     },
     {
      "id": "ce",

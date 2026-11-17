@@ -1,5 +1,0 @@
-f_sarp1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261117_112359_2cae5ac3-6b02-4a4d-8016-d18288402aae.png
-f_sarp2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261117_112359_5138ee54-d54c-4654-80ad-0c687a8ca70b.png
-f_genc1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261117_112359_b076e642-f0be-4646-b1aa-806209779b1b.png
-f_genc2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261117_112400_ee163b39-6546-4850-9991-09df9f24a17f.png
-f_cocuk https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261117_112400_5c37f077-4bf8-4472-8c48-6f1a2c86649d.png

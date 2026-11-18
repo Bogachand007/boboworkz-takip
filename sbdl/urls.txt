@@ -1,4 +1,0 @@
-pa1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261118_123151_155e2076-bbfb-4436-82da-5a3786be83d1.png
-pa2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261118_123148_50a4c979-e9d6-4e7d-9011-425e5fc9ce5c.png
-pc1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261118_123150_353e5f41-08cf-4718-8e89-0ba716e6694d.png
-pc2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261118_123148_5762daec-fabb-4d7e-bb25-36f3ade3ddc6.png

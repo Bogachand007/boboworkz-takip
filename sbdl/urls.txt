@@ -1,1 +1,1 @@
-CRUISE_split_v1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261121_183415_8c6910b7-1848-4c6e-945a-77d6cfca4222.png
+CRUISE_split_v2raw https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261121_184238_5fb82fa5-c732-42fe-82f9-b6beb3ebe6ba.png

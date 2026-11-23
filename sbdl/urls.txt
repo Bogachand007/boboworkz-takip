@@ -14,3 +14,4 @@ fis_fix https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf
 fis_v3 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_210009_ebbc1ee0-9842-4a0e-b41d-4bd23e2e3b5b.png
 kol_fix https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_210746_d31adaf7-e802-49e8-b3f5-fd79feb7f505.png
 dar1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_212549_44336bed-0c2d-415c-8a70-0f18cc062811.png
+dar2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_213402_d4232be8-9c63-44c7-ab0d-5221832322af.png

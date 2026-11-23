@@ -8,3 +8,4 @@ yoke1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_2
 gaz_kadin https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_184851_4fd00a12-daed-4528-955e-11dcdb2f841e.png
 idle1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_185508_0f352a53-5ed3-40ca-bc9e-01752fadfaaf.png
 dk_yagmur https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_191746_2c31160d-a39d-48e8-80fb-38bdb5780b83.png
+dk_ep4 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_192120_eb9472bd-f808-452b-a9e8-fa7bc630a6e8.png

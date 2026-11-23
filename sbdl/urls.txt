@@ -17,3 +17,4 @@ dar1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20
 dar2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_213402_d4232be8-9c63-44c7-ab0d-5221832322af.png
 dar2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_213402_d4232be8-9c63-44c7-ab0d-5221832322af.png
 dar3 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_213717_43412bb7-f9e7-41fd-bb69-43f277b6fbe9.png
+dar3_ep4 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_214028_e7ef2cf2-2015-4c39-917e-26550ebd6abc.png

@@ -34,3 +34,4 @@ win_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_2
 winL_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_225825_ec5e97a8-07a7-4f21-87cb-5527e0418079.png
 winR_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_230321_b7c58c85-4792-4647-b31b-834351daa375.png
 sb1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_231039_2dca9abf-f6b3-441b-857f-391b17ecd297.png
+sb2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_231558_9bab1384-2ae0-4eb6-a99f-090bb2d309d5.png

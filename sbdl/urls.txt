@@ -2,3 +2,4 @@ SOLO_BULUT_v1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSX
 su_gpt https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_135213_ba4ce5fc-bbbb-4042-b59c-b0ba69701315.png
 su_foto https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_135443_99cb5f01-2ed7-4475-80ce-2130217f1f6f.png
 su_epfix https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_135800_a2ac5c04-9302-4359-9a02-6be225a1e609.png
+su_jetref https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_142834_9a283dae-22bf-4a48-8af4-8c57000b2043.png

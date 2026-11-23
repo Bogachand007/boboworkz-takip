@@ -23,3 +23,4 @@ ultra1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_
 pist1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_220346_fb25cd22-e6e9-4b14-b268-108ef86699df.png
 pist_ep3 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_220801_f81a37c6-0dbc-4b08-8ad0-c6a0c806af21.png
 fis_ultra1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_221948_9c85c378-64d4-4b45-a38e-b875934131d8.png
+fu_ep3 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_222314_f8981d53-3c26-452f-98f2-d1643d2eada9.png

@@ -43,3 +43,4 @@ sc15u https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_2
 sc15_ep3 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_234009_05e352b1-a8bb-4255-93a4-d488a8e42b61.png
 nd_clean https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_234816_daf926c1-7939-4d4c-a52e-143f44d53ee8.png
 gz1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_235518_b7a72109-053e-4cde-af55-ea4dcf8e5141.png
+gz_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_235929_ffaf10a2-25d3-4df9-a64b-42170b459a47.png

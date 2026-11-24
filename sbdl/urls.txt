@@ -68,3 +68,4 @@ sarp_orta https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/
 talpa_ucak1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_110213_c160f57f-b3e6-4221-b481-5171542fdc7b.png
 talpa_ck_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_110603_af1db794-a381-42e5-8aa5-b293fcd91fb9.png
 taxi_alt1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_111132_105c8e8d-e8fd-434b-aec0-9ee9d1c1dcc0.png
+taxi_alt2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_112103_6d926b6f-4a55-4390-aa04-a1a6ba3db874.png

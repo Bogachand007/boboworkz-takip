@@ -79,3 +79,4 @@ rw17_s3 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf
 rw17_s4 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_132929_9bd561f9-89ed-44b9-bef5-457b2e89c6e6.png
 k2m_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_133520_4866d0c4-8753-4ce3-a65f-99fe1d5d43ca.png
 k1_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_134518_7728182d-2a7c-4f68-a01e-6f36094a731a.png
+push_v1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_135419_80daa769-a7e1-48a6-8a63-8080fe318b08.png

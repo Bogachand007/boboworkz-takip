@@ -77,3 +77,4 @@ rw17_s1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf
 rw17_s2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_132929_843c506f-9db5-4f65-a793-12e6c66ef267.png
 rw17_s3 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_132929_3b56788b-6634-4a32-b68b-3a9af0a69ba2.png
 rw17_s4 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_132929_9bd561f9-89ed-44b9-bef5-457b2e89c6e6.png
+k2m_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_133520_4866d0c4-8753-4ce3-a65f-99fe1d5d43ca.png

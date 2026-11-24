@@ -61,3 +61,5 @@ ws_gpt https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_
 rw_s0 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_075704_a37dbd72-273e-4229-a596-8475243e3b0a.png
 rw_doc https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_080718_18627be2-10bc-4d1d-bf48-5266abb59069.png
 v5_sh_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_081135_7163db4c-1d3f-4e79-b57c-69937064443b.png
+v_af73 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_082546_af73e249-61a4-4eaa-b1ca-27928626073c.mp4
+v_20ba https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261123_203901_20ba0345-60af-4126-8298-e0ec63124461.mp4

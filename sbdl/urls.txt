@@ -72,3 +72,4 @@ taxi_alt2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/
 dn_nose_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_112535_056b8f33-3a89-49ef-995f-e27140094a21.png
 taxi_alt3 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_114444_07c916d5-63d4-4c0f-bcb0-778507acb1c3.png
 sarp_kast3 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_115428_03aaa141-4e20-4302-a118-e2a3cb9f2f23.png
+kuyruk1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_132242_07e299c7-4ba1-4eeb-a970-b1f386ddeb7a.png

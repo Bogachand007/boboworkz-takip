@@ -57,3 +57,4 @@ sarp_gomlek https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFd
 sg_prof3 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_073847_aaff8288-33c9-4d16-963e-9f8fd38ec89e.png
 pist_sirt https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_074405_98635c1e-e3be-4b70-b519-4f1f5a44bf86.png
 ws_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_075028_c21ec4be-9832-46a1-bcbe-07aedf97bd93.png
+ws_gpt https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_075429_0ffd6031-5970-4b8c-a19d-88084337b58e.png

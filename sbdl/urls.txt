@@ -82,3 +82,6 @@ k1_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20
 push_v1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_135419_80daa769-a7e1-48a6-8a63-8080fe318b08.png
 pushrev_v1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_140109_c9e4ab9d-5436-4a02-bfec-012ce4b5d8d8.png
 tko_v1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_220203_e6031c5a-964f-4589-b7e1-7f2326098670.png
+tko_a https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_220557_c0a86dd0-050c-48b3-b9b1-2c8a64b8a9fa.png
+tko_b https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_220556_e14c18f6-b1de-40ab-b12b-371bc627521b.png
+tko_c https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_220601_7e4cd510-7447-4696-9782-bb80353e66b9.png

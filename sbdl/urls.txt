@@ -81,3 +81,4 @@ k2m_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_2
 k1_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_134518_7728182d-2a7c-4f68-a01e-6f36094a731a.png
 push_v1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_135419_80daa769-a7e1-48a6-8a63-8080fe318b08.png
 pushrev_v1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_140109_c9e4ab9d-5436-4a02-bfec-012ce4b5d8d8.png
+tko_v1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_220203_e6031c5a-964f-4589-b7e1-7f2326098670.png

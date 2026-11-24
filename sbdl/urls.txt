@@ -53,3 +53,4 @@ ak1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_202
 ak_ep https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_010727_776d7e90-2bb5-43c1-9707-560275d461c9.png
 ak_band_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_011131_61fca91f-9c2c-48e0-8f5a-d61ae3f1a9a0.png
 pb_s https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_013551_647d8cc0-7646-4842-8193-86c236b8ed35.png
+sarp_gomlek https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_073412_4ef76fc3-5b62-4e3a-ade1-435a638cd06b.png

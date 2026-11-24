@@ -85,3 +85,4 @@ tko_v1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_
 tko_a https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_220557_c0a86dd0-050c-48b3-b9b1-2c8a64b8a9fa.png
 tko_b https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_220556_e14c18f6-b1de-40ab-b12b-371bc627521b.png
 tko_c https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_220601_7e4cd510-7447-4696-9782-bb80353e66b9.png
+pov110 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_221654_a1c6c948-43e6-43c6-bae2-41d05cfc173f.png

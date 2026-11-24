@@ -51,3 +51,4 @@ mg1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_202
 mg_s https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_005944_710b844d-5ad2-4420-97c9-7e0c616a84b0.png
 ak1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_010351_01f3ce02-e7ae-44c5-a598-a303784a7b18.png
 ak_ep https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_010727_776d7e90-2bb5-43c1-9707-560275d461c9.png
+ak_band_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_011131_61fca91f-9c2c-48e0-8f5a-d61ae3f1a9a0.png

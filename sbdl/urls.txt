@@ -101,3 +101,5 @@ ck30h https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_2
 ck30i https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_114842_40a00802-8c3c-48c2-84b7-f555f2c96c17.png
 ck31 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_115928_4710562a-85c3-497a-9a20-42b5e958b460.png
 ck15n https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_120509_2f4f6d38-acf6-48cf-b901-a9fc28d62ef8.png
+rad_flux https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_120852_c655a5e4-4244-450f-be6f-6e08c145cfe2.png
+rad_mm https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_120855_b94118bf-3527-43bf-b065-7dfb540065f6.png

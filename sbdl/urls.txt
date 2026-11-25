@@ -95,3 +95,4 @@ cr4 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_202
 cr4b https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_105414_d8166682-ddcd-4081-90bb-c6a854614f87.png
 cr4c https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_110826_667cc155-3281-4be2-ba2c-4fdb664e3b4a.png
 alm_up https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_111440_a78b3e62-5a83-4e64-8e33-f98b6690f577.png
+ck30 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_112155_462f1764-acb8-4d6d-8cd9-accfcf2a78cd.png

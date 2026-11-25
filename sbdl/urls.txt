@@ -89,3 +89,4 @@ pov110 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_
 mcp_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_100249_fc26febd-a957-4d6c-b651-b8d273e9b2cf.png
 cr1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_101920_ee5cd897-f728-44d4-92b0-cd434fe38e8a.png
 cr2 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_102918_bfb23df9-d3c0-4879-b26d-576d78fc2dfd.png
+cr2b https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_103432_696ff8a4-b14a-451b-8a0f-9209738a55dc.png

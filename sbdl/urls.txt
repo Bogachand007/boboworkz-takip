@@ -87,3 +87,4 @@ tko_b https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_2
 tko_c https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_220601_7e4cd510-7447-4696-9782-bb80353e66b9.png
 pov110 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261124_221654_a1c6c948-43e6-43c6-bae2-41d05cfc173f.png
 mcp_g https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_100249_fc26febd-a957-4d6c-b651-b8d273e9b2cf.png
+cr1 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_101920_ee5cd897-f728-44d4-92b0-cd434fe38e8a.png

@@ -103,3 +103,4 @@ ck31 https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20
 ck15n https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_120509_2f4f6d38-acf6-48cf-b901-a9fc28d62ef8.png
 rad_flux https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_120852_c655a5e4-4244-450f-be6f-6e08c145cfe2.png
 rad_mm https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_120855_b94118bf-3527-43bf-b065-7dfb540065f6.png
+rad_cine https://d8j0ntlcm91z4.cloudfront.net/user_300B2aUuya8Prz8olCVYRKSXFdd/hf_20261125_121731_7539e027-53de-4cda-b9fe-d3c1506ab731.png
